@@ -788,7 +788,7 @@
             <name>sink001</name>
             <pbr>
               <metal>
-                <albedo_map>textures/sink_001.png</albedo_map>
+                <albedo_map>model://sink/textures/sink_001.png</albedo_map>
                 <max_anisotropy>16</max_anisotropy>
                 <metalness>0</metalness>
               </metal>
@@ -825,7 +825,7 @@
             <name>sink001</name>
             <pbr>
               <metal>
-                <albedo_map>textures/sink_001.png</albedo_map>
+                <albedo_map>model://sink/textures/sink_001.png</albedo_map>
                 <max_anisotropy>16</max_anisotropy>
                 <metalness>0</metalness>
               </metal>
@@ -862,7 +862,7 @@
             <name>sink001</name>
             <pbr>
               <metal>
-                <albedo_map>textures/sink_001.png</albedo_map>
+                <albedo_map>model://sink/textures/sink_001.png</albedo_map>
                 <max_anisotropy>16</max_anisotropy>
                 <metalness>0</metalness>
               </metal>
@@ -1007,7 +1007,7 @@
             <name>sink001</name>
             <pbr>
               <metal>
-                <albedo_map>textures/sink_001.png</albedo_map>
+                <albedo_map>model://sink/textures/sink_001.png</albedo_map>
                 <max_anisotropy>16</max_anisotropy>
                 <metalness>0</metalness>
               </metal>

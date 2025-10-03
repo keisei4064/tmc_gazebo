@@ -45,7 +45,7 @@
             <diffuse>0.3 0.3 0.3 1.0</diffuse>
             <pbr>
               <metal>
-                <albedo_map>../models/base_materials/wood/textures/light_wood.png</albedo_map>
+                <albedo_map>model://base_materials/wood/textures/light_wood.png</albedo_map>
                 <max_anisotropy>16</max_anisotropy>
                 <rotate>90</rotate>
                 <scale>0.1 0.1</scale>
