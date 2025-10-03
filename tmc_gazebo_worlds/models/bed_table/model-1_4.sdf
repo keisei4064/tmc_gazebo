@@ -231,7 +231,7 @@
 
             <pbr>
               <metal>
-                <albedo_map>marker/0010/textures/BchThin_Id0010_Size0060.png</albedo_map>
+                <albedo_map>model://bed_table/marker/0010/textures/BchThin_Id0010_Size0060.png</albedo_map>
                 <max_anisotropy>16</max_anisotropy>
                 <metalness>0.0</metalness> <!-- 金属感を排除 -->
               </metal>
